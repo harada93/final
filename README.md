@@ -8,4 +8,4 @@
 
 システム名 :ドラシステム
 
-URL        :
+URL        :http://aso2201178.kuron.jp/Github/final/src/index.html
