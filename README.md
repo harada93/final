@@ -8,4 +8,4 @@
 
 システム名 :ドラシステム
 
-URL        :https://mysqladmin.lolipop.jp/pma5/index.php?route=/&route=%2F&server=108
+URL        :
